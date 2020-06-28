@@ -1,0 +1,3 @@
+---
+- import_playbook: pbAuthProfile.yml
+- import_playbook: pbSsoPolicy.yml

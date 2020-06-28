@@ -1,0 +1,16 @@
+{
+  "count": 1,
+  "results": [
+    {
+      "_last_modified": "1593368795551422",
+      "url": "https://192.168.142.135/api/ssopolicy/ssopolicy-a73aad7f-47b6-496d-898e-d21984ed7233",
+      "tenant_ref": "https://192.168.142.135/api/tenant/admin",
+      "authentication_policy": {
+        "default_auth_profile_ref": "https://192.168.142.135/api/authprofile/authprofile-8448e750-25c4-4848-95d1-19fe7a1dacec"
+      },
+      "uuid": "ssopolicy-a73aad7f-47b6-496d-898e-d21984ed7233",
+      "type": "SSO_TYPE_SAML",
+      "name": "sso1"
+    }
+  ]
+}

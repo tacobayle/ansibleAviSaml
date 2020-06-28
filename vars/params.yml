@@ -1,0 +1,11 @@
+---
+authProfile:
+  - name: authProfile1
+    type: AUTH_PROFILE_SAML
+    saml:
+      sp:
+        saml_entity_type: AUTH_SAML_APP_VS
+
+ssoPolicy:
+  - name: ssoPolicy1
+    type: SSO_TYPE_SAML
