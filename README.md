@@ -1,7 +1,7 @@
 # aviSaml
 
 ## Goals
-Ansible Playbook to configure SAML for enabling authenication/sso
+Ansible Playbook to configure Avi with SAML for enabling authentication/sso
 
 ## Prerequisites:
 1. Make sure the controller is available at the IP defined in vars/creds.json
@@ -59,4 +59,4 @@ ssoPolicy:
 ansible-playbook configureAlerts.yml
 
 ## Improvement:
-Enable this a list of vs or for all the vs already configured (default mode)
+Enable this for a list of vs or for all the vs already configured (default mode)
